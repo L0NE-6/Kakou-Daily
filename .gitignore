@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+*.log
+*.jsonl
+kakou_accounts.txt
+kakou-report.json
+kakou-report.jsonl
+auth.json
+*.cookie
+
